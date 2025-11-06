@@ -1,0 +1,14 @@
+# Ignore compiled classes
+*.class
+
+# Ignore backup or system files
+*.log
+.DS_Store
+
+# Ignore IDE stuff
+.vscode/
+.idea/
+
+# Ignore build outputs
+/dist/
+/out/
