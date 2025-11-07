@@ -11,7 +11,7 @@ Paste your **X** and **Y** values, pick **tick mode** (“Nice” rounded ticks 
 
 - **Table → Graph in one window**
   - Text fields for X and Y lists (comma or space separated)
-  - Sample data loader (Table 1 demo)
+  - Sample data loader
 - **Two tick modes**
   - **Nice ticks**: rounded min/max and steps for clean, presentation-ready axes
   - **Exact ticks**: uses your raw values with no rounding
