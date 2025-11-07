@@ -3,7 +3,7 @@
 Simple x–y coordinate plotter for quick classroom or lab graphs. I was too lazy to use excel and decided to make this to graph out coordinates! 
 Paste your **X** and **Y** values, pick **tick mode** (“Nice” rounded ticks or **Exact** ticks), label your axes, and hit **Plot** to instantly generate a graph.
 
-![icon](plotpoint.png)
+![icon](example.png)
 
 ---
 
@@ -25,9 +25,6 @@ Paste your **X** and **Y** values, pick **tick mode** (“Nice” rounded ticks 
   - When all Y values are the same, the graph auto-adds padding so the line doesn’t sit directly on the X-axis
 - **Color customization**
   - Options menu to change line, point, grid, axis, tick, and background colors
-- **Custom window icon**
-  - Uses `plotpoint.png` / `plotpoint.ico` for the window and taskbar icon
-
 ---
 
 ## 🧠 How It Works
