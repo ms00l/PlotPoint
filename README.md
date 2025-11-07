@@ -78,8 +78,6 @@ java -jar PlotPoint.jar
 ```
 .
 ├─ TableToGraph.java       # Main GUI + plotting logic
-├─ plotpoint.png           # Window/taskbar icon (PNG)
-├─ plotpoint.ico           # Optional Windows icon
 └─ .gitignore
 ```
 
