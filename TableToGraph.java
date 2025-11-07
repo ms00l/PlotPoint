@@ -23,7 +23,7 @@ public class TableToGraph {
 
     public TableToGraph() {
         frame = new JFrame("PlotPoint Table → Graph");
-        frame.setIconImage(new ImageIcon("plotpoint.png").getImage());
+        frame.setIconImage(new ImageIcon(TableToGraph.class.getResource("/plotpoint.png")).getImage());
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         frame.setSize(1100, 720);
         frame.setLocationRelativeTo(null);
